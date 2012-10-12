@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.zips.zipswallpapers;
 
 public class Wallpaper {
 

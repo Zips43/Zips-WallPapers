@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.zips.zipswallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;

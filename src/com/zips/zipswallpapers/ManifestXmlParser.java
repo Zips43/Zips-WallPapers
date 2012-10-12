@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.zips.zipswallpapers;
 
 import android.content.Context;
 import android.util.Log;
